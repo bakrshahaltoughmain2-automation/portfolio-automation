@@ -1,0 +1,21 @@
+﻿id,name,email,company,product_interest,lead_source,created_at,notes
+1,Sarah Khalil,sarah.khalil@retailpro.example.com,RetailPro,CRM,Twitter,2025-09-02,Send proposal
+2,John Wang,john.wang@finhubai.example.com,FinHub AI,CRM,Event,2025-09-16,Asked for demo
+3,Lina Haddad,lina.haddad@medixlabs.example.com,Medix Labs,Chatbot,Referral,2025-09-15,Send proposal
+4,Omar Faris,omar.faris@greenlogix.example.com,GreenLogix,AI Assistant,Cold Email,2025-09-05,Interested in enterprise plan
+5,Aisha Patel,aisha.patel@brightwave.example.com,BrightWave,Analytics,LinkedIn,2025-09-05,Looking for integration options
+6,Carlos Mendes,carlos.mendes@pixelforge.example.com,PixelForge,Chatbot,Referral,2025-09-19,Requested case studies
+7,Yuki Tanaka,yuki.tanaka@sakuratech.example.com,SakuraTech,Personalization,Website,2025-09-20,Follow up next week
+8,Fatima Al-Masri,fatima.al-masri@desertsoft.example.com,DesertSoft,CRM,Event,2025-09-01,Budget approved
+9,Tom Evans,tom.evans@strideworks.example.com,StrideWorks,Helpdesk,Event,2025-09-19,Follow up next week
+10,Priya Reddy,priya.reddy@nexacloud.example.com,NexaCloud,Analytics,Facebook,2025-09-14,Budget approved
+11,Mikhail Ivanov,mikhail.ivanov@balticsystems.example.com,Baltic Systems,Personalization,Cold Email,2025-09-23,Asked for demo
+12,Zainab Noor,zainab.noor@noorconsult.example.com,NoorConsult,Helpdesk,LinkedIn,2025-09-27,Requested case studies
+13,Diego Alvarez,diego.alvarez@solarex.example.com,Solarex,AI Assistant,LinkedIn,2025-09-24,Follow up next week
+14,Noura Saeed,noura.saeed@cedartech.example.com,CedarTech,Personalization,Facebook,2025-09-12,Budget approved
+15,Hassan Ali,hassan.ali@atlascorp.example.com,AtlasCorp,Automation,LinkedIn,2025-09-06,Requested case studies
+16,Emily Johnson,emily.johnson@blueoak.example.com,BlueOak,Chatbot,LinkedIn,2025-09-02,Send proposal
+17,Arun Sharma,arun.sharma@omniserve.example.com,OmniServe,AI Assistant,Partner,2025-09-10,Needs pricing
+18,Mia Chen,mia.chen@lumenai.example.com,LumenAI,Personalization,Partner,2025-09-08,Interested in enterprise plan
+19,Khaled Zidan,khaled.zidan@sandstone.example.com,Sandstone,Email Marketing,Twitter,2025-09-28,Asked for demo
+20,Sofia Rossi,sofia.rossi@vitanova.example.com,VitaNova,Analytics,Facebook,2025-09-13,Needs pricing
