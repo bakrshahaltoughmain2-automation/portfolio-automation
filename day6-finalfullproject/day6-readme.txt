@@ -1,0 +1,59 @@
+# Automated Lead Capture & AI-Powered Follow-Up
+
+[Watch Loom Demo](https://www.loom.com/share/2f2c20fdcc914e958053c1a3a135c8d3?sid=9c9030d9-477e-49b0-b7a0-05ad69f75771)
+
+## 📌 Overview
+This project automates lead intake and personalized outreach using **Google Forms**, **Airtable**, **Zapier**, **OpenAI**, and **Gmail**.  
+Every new lead receives a customized AI-generated welcome email immediately after form submission.
+
+---
+
+## ⚙️ Workflow
+1. **Google Form** — captures Name, Email, Company, Product Interest, Source, Notes.  
+2. **Google Sheet** — auto-populated from Form.  
+3. **Zapier** automation:  
+   - Trigger: New row in Google Sheet  
+   - Action: Create record in Airtable  
+   - Action: Send prompt to OpenAI → personalized 2-sentence intro  
+   - Action: Gmail → send email with AI output  
+   - Action: Update Airtable record (store AI message, mark as sent)  
+
+---
+
+## 🛠️ Tech Stack
+- Google Forms + Google Sheets  
+- Airtable  
+- Zapier  
+- OpenAI (ChatGPT API)  
+- Gmail  
+
+---
+
+## 📷 Screenshots
+- `Day6_Zapier_trigger.png`  
+- `Day6_Airtable_create.png`  
+- `Day6_OpenAI_prompt.png`  
+- `Day6_Gmail_send.png`  
+- `Day6_Airtable_record.png`  
+- `Day6_email_received.png`
+
+---
+
+## 🎥 Demo Video
+[Loom Demo Link](INSERT-LOOM-LINK-HERE)
+
+---
+
+## ✅ Status
+- [x] Google Form & Sheet connected  
+- [x] Airtable schema designed (clean, professional)  
+- [x] Zapier workflow implemented (Form → AI → Email → Airtable update)  
+- [x] 20 dummy leads tested  
+- [x] Demo Loom recorded  
+
+---
+
+## 🚀 Next Steps
+- Add Slack notifications  
+- Add error handling + logging  
+- Integrate scheduling link into all messages  
